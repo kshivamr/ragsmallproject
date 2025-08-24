@@ -1,0 +1,6 @@
+faiss-cpu
+langchain
+langchain-community
+transformers
+sentence-transformers
+accelerate
